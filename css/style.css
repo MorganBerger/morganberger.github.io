@@ -1,0 +1,37 @@
+.coloredText {
+  color: /*#18BC9C*/ #ff6f6c;
+}
+
+.mediumFont {
+  font-size: 20px;
+}
+
+.text-danger ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.help-block {
+  margin: 0 !important;
+}
+
+#contact {
+  padding: 70px 0px !important;
+}
+
+.portfolio-link {
+  border: 1px solid #cacaca;
+}
+
+.smallText {
+  font-size: 15px;
+}
+
+.cornered-gray {
+  border: 1px solid #cacaca;
+}
+
+.btn-lg {
+  padding: 10px 50px !important;
+}
